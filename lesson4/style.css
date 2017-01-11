@@ -1,0 +1,21 @@
+.basket {
+    text-align: center;
+}
+
+.basket, .basket tr th {
+    border-bottom: 1px solid #000;
+}
+
+.basket tr:nth-child(2n) {
+    background: lightcyan;
+}
+
+.basket tr td:first-child img {
+    width: 125px;
+    height: 125px;
+}
+
+p.heading {
+    font-size: 20px;
+    font-weight: bold;
+}
