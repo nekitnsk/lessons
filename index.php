@@ -1,7 +1,6 @@
 <?php
     error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE); //error handlings
     ini_set('display_errors', 1);
-
     /*
      * Задание 1
     */
